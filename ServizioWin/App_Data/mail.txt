@@ -1,0 +1,3 @@
+﻿this is an email for test.
+
+CIAO ##NOME## come stai ?

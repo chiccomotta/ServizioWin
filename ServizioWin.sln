@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServizioWin", "ServizioWin\ServizioWin.csproj", "{1040EEAE-AED6-41CC-AC3C-268BC4B93FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationManager", "NotificationManager\NotificationManager.csproj", "{1B2C6D3B-8149-46AE-BC74-EDD891C4B057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceControllerApp", "ServiceControllerApp\ServiceControllerApp.csproj", "{983405E0-F797-42D1-9CDF-92773BC4B466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1040EEAE-AED6-41CC-AC3C-268BC4B93FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1040EEAE-AED6-41CC-AC3C-268BC4B93FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1040EEAE-AED6-41CC-AC3C-268BC4B93FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1040EEAE-AED6-41CC-AC3C-268BC4B93FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2C6D3B-8149-46AE-BC74-EDD891C4B057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2C6D3B-8149-46AE-BC74-EDD891C4B057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2C6D3B-8149-46AE-BC74-EDD891C4B057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2C6D3B-8149-46AE-BC74-EDD891C4B057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983405E0-F797-42D1-9CDF-92773BC4B466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983405E0-F797-42D1-9CDF-92773BC4B466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983405E0-F797-42D1-9CDF-92773BC4B466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983405E0-F797-42D1-9CDF-92773BC4B466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
